@@ -11,5 +11,8 @@ Here are the answers to [120 Data Science Interview Questions](http://www.datasc
 - [Statistical Inference](statistical-inference.md)
 
 Feel free to send me a pull request if you find any mistakes or have better answers.
-follow me at 
+# 📫 Follw me: 
+
 [![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
